@@ -4,6 +4,51 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="gQc1KbBLkqeUhXcpwl9w-1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;dashPattern=8 8;" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;EDP&lt;/font&gt;" vertex="1">
+          <mxGeometry height="200" width="281" x="218" y="252" as="geometry" />
+        </mxCell>
+        <mxCell id="gQc1KbBLkqeUhXcpwl9w-2" parent="1" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=light-dark(#000000,#3333FF);" value="AGIS&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="160" width="160" x="19" y="12" as="geometry" />
+        </mxCell>
+        <mxCell id="gQc1KbBLkqeUhXcpwl9w-3" parent="1" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" value="AREX" vertex="1">
+          <mxGeometry height="70" width="50" x="39" y="72" as="geometry" />
+        </mxCell>
+        <mxCell id="gQc1KbBLkqeUhXcpwl9w-5" edge="1" parent="1" source="gQc1KbBLkqeUhXcpwl9w-4" style="edgeStyle=orthogonalEdgeStyle;shape=flexArrow;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;" target="gQc1KbBLkqeUhXcpwl9w-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="gQc1KbBLkqeUhXcpwl9w-4" parent="1" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" value="ADZ" vertex="1">
+          <mxGeometry height="70" width="50" x="109" y="72" as="geometry" />
+        </mxCell>
+        <mxCell id="gQc1KbBLkqeUhXcpwl9w-6" edge="1" parent="1" source="gQc1KbBLkqeUhXcpwl9w-3" style="edgeStyle=orthogonalEdgeStyle;shape=flexArrow;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;" target="gQc1KbBLkqeUhXcpwl9w-1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="257" y="312" as="sourcePoint" />
+            <mxPoint x="341" y="472" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="gQc1KbBLkqeUhXcpwl9w-7" edge="1" parent="1" style="edgeStyle=orthogonalEdgeStyle;shape=flexArrow;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="40" y="880" as="sourcePoint" />
+            <mxPoint x="130" y="880" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="gQc1KbBLkqeUhXcpwl9w-9" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Datenfluss Richtung" vertex="1">
+          <mxGeometry height="30" width="120" x="130" y="865" as="geometry" />
+        </mxCell>
+        <mxCell id="gQc1KbBLkqeUhXcpwl9w-10" parent="1" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" value="" vertex="1">
+          <mxGeometry height="50" width="40" x="60" y="900" as="geometry" />
+        </mxCell>
+        <mxCell id="gQc1KbBLkqeUhXcpwl9w-11" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;" value="Datenbanken" vertex="1">
+          <mxGeometry height="30" width="120" x="134" y="905" as="geometry" />
+        </mxCell>
+        <mxCell id="gQc1KbBLkqeUhXcpwl9w-12" parent="1" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=light-dark(#000000,#3333FF);" value="" vertex="1">
+          <mxGeometry height="40" width="40" x="60" y="970" as="geometry" />
+        </mxCell>
+        <mxCell id="gQc1KbBLkqeUhXcpwl9w-13" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;" value="Datenquelle" vertex="1">
+          <mxGeometry height="30" width="120" x="134" y="975" as="geometry" />
+        </mxCell>
+        <mxCell id="gQc1KbBLkqeUhXcpwl9w-14" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;Version 0.1&lt;/font&gt;" vertex="1">
+          <mxGeometry height="30" width="166" x="290" y="910" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
